@@ -60,8 +60,7 @@ java src/Main
    - View transaction history
    - Generate account statement
 
-## Screenshots
-*(Screenshots will be added after implementation)*
+
 
 ## Author
-Tatikonda - VIT Student
+Tatikonda Aditya - VIT Student
