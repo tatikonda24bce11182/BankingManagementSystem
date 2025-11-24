@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Banking System",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "vmArgs": "-cp lib/mysql-connector-j-8.2.0.jar",
+            "classPaths": [
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/lib/mysql-connector-j-8.2.0.jar"
+            ]
+        }
+    ]
+}
